@@ -61,15 +61,21 @@ curl -X POST https://coupon-manage.onrender.com/best-coupon -H "Content-Type: ap
 🧑‍💻 How to Run Locally
 
 git clone https://github.com/atharvac1204/Coupon_Manage.git
+
 cd Coupon_Manage
+
 npm install
+
 npm run dev
+
 Server runs locally on:
+
 http://localhost:3000
 
 📂 Project Structure
 
 Coupon_Manage/
+
  ├─ src/
  
  │  ├─ index.js
@@ -86,9 +92,14 @@ Coupon_Manage/
 
 
 🔐 Demo Login Requirement
+
 Assignment asked for:
+
 Email: hire-me@anshumat.org
+
 Password: HireMe@2025!
+
 🔹 Since this API has no authentication, no login is required.
+
 🔹 Example user context is included in test scenarios.
 
