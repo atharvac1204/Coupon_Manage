@@ -36,6 +36,7 @@ POST /best-coupon
 
 🧪 Sample Test:
 curl -X POST https://coupon-manage.onrender.com/best-coupon -H "Content-Type: application/json" -d "{\"user\":{\"userId\":\"u1\",\"userTier\":\"NEW\",\"country\":\"IN\",\"lifetimeSpend\":0,\"ordersPlaced\":0},\"cart\":{\"items\":[{\"productId\":\"p1\",\"category\":\"electronics\",\"unitPrice\":600,\"quantity\":1}]}}"
+
 📌 Sample Response:
 {
   "bestCoupon": {
