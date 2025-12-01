@@ -57,11 +57,17 @@ http://localhost:3000
 📂 Project Structure
 coupon-management-api/
  ├─ src/
+ 
  │  ├─ index.js
+ 
  │  ├─ couponStore.js
+ 
  │  ├─ couponService.js
+ 
  │  ├─ demoData.js
+ 
  ├─ package.json
+ 
  ├─ README.md
 
 
